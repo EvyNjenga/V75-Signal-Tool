@@ -1,0 +1,1 @@
+# V75 Signal Tool\nDeploy to Streamlit Cloud and set your Deriv API Token.\nRun with: streamlit run signal_tool.py

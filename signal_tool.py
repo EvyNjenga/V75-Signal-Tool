@@ -10,7 +10,7 @@ st.title("📊 V75 Scalping Signal Tool")
 
 # Replace with your Deriv API endpoint and token
 API_ENDPOINT = "https://api.deriv.com/api/exchange/v1/marketdata/volatility_75/ohlc"
-API_TOKEN = "YOUR_API_TOKEN"
+DERIV_API_TOKEN = "***********uw9C"
 
 def get_candles():
     # Example placeholder for live data
